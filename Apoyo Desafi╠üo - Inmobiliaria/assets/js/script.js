@@ -1,7 +1,7 @@
 const propiedades_venta = [
     {
       nombre: 'Casa moderna en zona residencial',
-      src: 'https://images.unsplash.com/photo-1562153927-f31e65ff8fd0',
+      src: 'https://images.homify.com/c_fill,f_auto,h_500,q_auto,w_1280/v1453219822/p/photo/image/1255680/Arquiteta_Camila_Castilho-84.jpg',
       descripcion: 'Hermosa casa moderna de 4 habitaciones, ideal para una familia. Amplio jardín y piscina.',
       ubicacion: 'Av. Primavera 345, Los Pinos, Ciudad de México, MX',
       habitaciones: 4,
@@ -11,7 +11,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Apartamento de lujo en el centro',
-      src: 'https://images.unsplash.com/photo-1572600130211-9fd7e13028d3',
+      src: 'https://assets.easybroker.com/property_images/3174681/50834143/EB-LE4681.jpg?version=1660065784',
       descripcion: 'Departamento con vista panorámica al mar, 3 habitaciones, 2 baños, ideal para ejecutivos.',
       ubicacion: 'Calle Libertad 786, Torre Central, Cancún, MX',
       habitaciones: 3,
@@ -21,7 +21,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Casa con amplio terreno en las afueras',
-      src: 'https://images.unsplash.com/photo-1561693439-d33c6eacaf7a',
+      src: 'https://www.cjpuga.com/wp-content/uploads/2017/06/20-2.jpg',
       descripcion: 'Casa en las afueras con terreno amplio, perfecta para aquellos que buscan privacidad y naturaleza.',
       ubicacion: 'Carretera El Sol 156, Suburbio, Guadalajara, MX',
       habitaciones: 5,
@@ -31,7 +31,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Penthouse de lujo con terraza',
-      src: 'https://images.unsplash.com/photo-1577208466623-d21361ba56fe',
+      src: 'https://media.admagazine.com/photos/631035d3566c6ec729d474df/16:9/w_2560%2Cc_limit/DSC_8555.jpg',
       descripcion: 'Penthouse con 3 habitaciones y terraza privada. Vistas espectaculares a la ciudad.',
       ubicacion: 'Avenida de las Torres 99, Piso 21, Monterrey, MX',
       habitaciones: 3,
@@ -71,7 +71,7 @@ const propiedades_venta = [
   const propiedades_alquiler = [
     {
       nombre: 'Apartamento acogedor en el centro',
-      src: 'https://images.unsplash.com/photo-1521791145564-94f545bc1899',
+      src: 'https://www.citymax-mx.com/wp-content/uploads/sites/21/2018/03/decorar-departemento-peque%C3%B1o.jpg',
       descripcion: 'Apartamento de 2 habitaciones, totalmente amueblado, ubicado a pasos de las principales tiendas y restaurantes.',
       ubicacion: 'Calle Bolívar 245, Centro Histórico, Lima, PE',
       habitaciones: 2,
@@ -81,7 +81,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Departamento con vista al mar',
-      src: 'https://images.unsplash.com/photo-1555645130-d2346be4bfe2',
+      src: 'https://http2.mlstatic.com/D_NQ_NP_2X_617050-MLC80654537977_112024-N.webp',
       descripcion: 'Departamento de 1 habitación en un edificio frente al mar, ideal para solteros o parejas.',
       ubicacion: 'Calle del Mar 432, Punta Cana, República Dominicana',
       habitaciones: 1,
@@ -91,7 +91,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Casa en alquiler para vacaciones',
-      src: 'https://images.unsplash.com/photo-1610302572520-37a039a92d98',
+      src: 'https://www.hola.com/horizon/landscape/74bc562faa10-casa-lago-1t-t.jpg',
       descripcion: 'Casa vacacional de 3 habitaciones, con piscina privada y vista al lago. Ideal para escapadas familiares.',
       ubicacion: 'Calle del Lago 789, Costa Azul, Acapulco, MX',
       habitaciones: 3,
@@ -101,7 +101,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Apartamento en edificio moderno',
-      src: 'https://images.unsplash.com/photo-1577227735851-e1b45e0da7c6',
+      src: 'https://img.freepik.com/fotos-premium/edificios-apartamentos-modernos-dia-soleado-fachada-cielo-azul-edificio-apartamentos-moderno_844516-5206.jpg',
       descripcion: 'Apartamento moderno en un edificio de lujo, con gimnasio, área social y seguridad las 24 horas.',
       ubicacion: 'Avenida Reforma 222, Polanco, Ciudad de México, MX',
       habitaciones: 2,
